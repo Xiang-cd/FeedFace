@@ -1,0 +1,38 @@
+{
+    "id": "1558",
+    "caption_list": [
+        "a woman wearing a black hat and a white top ",
+        "a young asian woman with long black hair taking a selfie ",
+        "an asian woman in a white shirt and black bow tie is sitting under a tent ",
+        "an asian woman with long hair is taking a selfie ",
+        "a young woman sitting at a table in a classroom ",
+        "a young asian woman is posing for the camera "
+    ],
+    "source_group": [
+        {
+            "path": "data_examples/1558_2.jpg"
+        },
+        {
+            "path": "data_examples/1558_3.jpg"
+        },
+        {
+            "path": "data_examples/1558_4.jpg"
+        },
+        {
+            "path": "data_examples/1558_0.jpg"
+        },
+        {
+            "path": "data_examples/1558_7.jpg"
+        },
+        {
+            "path": "data_examples/1558_5.jpg"
+        },
+        {
+            "path": "data_examples/1558_6.jpg"
+        },
+        {
+            "path": "data_examples/1558_1.jpg"
+        }
+    ],
+    "class_word": "woman"
+}

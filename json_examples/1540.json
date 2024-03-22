@@ -1,0 +1,36 @@
+{
+    "id": "1540",
+    "caption_list": [
+        "a woman with long black hair sitting in a car ",
+        "a woman posing for a photo with a dog ",
+        "a woman in a black dress with pearls on her neck ",
+        "a young asian woman in a pink dress and white cardigan "
+    ],
+    "source_group": [
+        {
+            "path": "data_examples/1540_4.jpg"
+        },
+        {
+            "path": "data_examples/1540_3.jpg"
+        },
+        {
+            "path": "data_examples/1540_1.jpg"
+        },
+        {
+            "path": "data_examples/1540_7.jpg"
+        },
+        {
+            "path": "data_examples/1540_0.jpg"
+        },
+        {
+            "path": "data_examples/1540_6.jpg"
+        },
+        {
+            "path": "data_examples/1540_2.jpg"
+        },
+        {
+            "path": "data_examples/1540_5.jpg"
+        }
+    ],
+    "class_word": "woman"
+}

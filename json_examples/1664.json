@@ -1,0 +1,28 @@
+{
+    "id": "1664",
+    "caption_list": [
+        "a young asian woman with short hair posing for the camera ",
+        "a young asian woman with long hair holding a stuffed animal ",
+        "a woman is sitting on a chair wearing a t - shirt with a tiger on it ",
+        "a woman holding a camera and a bouquet of flowers ",
+        "an asian woman in a yellow dress posing for the camera "
+    ],
+    "source_group": [
+        {
+            "path": "data_examples/1664_1.jpg"
+        },
+        {
+            "path": "data_examples/1664_4.jpg"
+        },
+        {
+            "path": "data_examples/1664_3.jpg"
+        },
+        {
+            "path": "data_examples/1664_0.jpg"
+        },
+        {
+            "path": "data_examples/1664_2.jpg"
+        }
+    ],
+    "class_word": "woman"
+}

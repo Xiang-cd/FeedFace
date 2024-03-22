@@ -1,0 +1,28 @@
+{
+    "id": "1433",
+    "caption_list": [
+        "a man in sunglasses standing in front of a cathedral ",
+        "a man wearing glasses and a pink shirt ",
+        "a young man in a blue shirt sitting in tall grass ",
+        "a man in a pink shirt holding a box of macarons ",
+        "a man holding up a medal in his hand "
+    ],
+    "source_group": [
+        {
+            "path": "data_examples/1433_3.jpg"
+        },
+        {
+            "path": "data_examples/1433_2.jpg"
+        },
+        {
+            "path": "data_examples/1433_0.jpg"
+        },
+        {
+            "path": "data_examples/1433_4.jpg"
+        },
+        {
+            "path": "data_examples/1433_1.jpg"
+        }
+    ],
+    "class_word": "man"
+}

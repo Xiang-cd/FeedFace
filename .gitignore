@@ -1,0 +1,15 @@
+models/
+models
+logs/
+selected_logs
+**/__pycache__/
+.vscode/
+face_segmentation/
+playground/
+wandb/
+
+logs_*/
+.DS_Store
+gpu_*/
+dev.ipynb
+*.code-workspace

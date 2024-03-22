@@ -1,0 +1,27 @@
+{
+    "id": "1655",
+    "caption_list": [
+        "a woman in an orange top holding a straw in her mouth ",
+        "a woman in a green dress with a sunflower on her head ",
+        "a woman standing in front of a movie poster ",
+        "a young asian woman with black hair wearing a sweater "
+    ],
+    "source_group": [
+        {
+            "path": "data_examples/1655_2.jpg"
+        },
+        {
+            "path": "data_examples/1655_4.jpg"
+        },
+        {
+            "path": "data_examples/1655_1.jpg"
+        },
+        {
+            "path": "data_examples/1655_3.jpg"
+        },
+        {
+            "path": "data_examples/1655_0.jpg"
+        }
+    ],
+    "class_word": "woman"
+}
